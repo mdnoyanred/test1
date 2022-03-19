@@ -1,0 +1,11 @@
+{
+	"cache_domains": [
+		
+		{
+			"name": "likee",
+			"description": "CDN for likee updates",
+			"mixed_content": true,
+			"domain_files": ["likee.txt"]
+		}
+	]
+}
